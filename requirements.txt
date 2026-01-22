@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+joblib
+
+#how to directl download
+pip install -r requirements.txt
