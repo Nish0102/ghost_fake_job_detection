@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
 
-# -------------------------------
+
 # 1️⃣ Load Dataset
 # -------------------------------
 df = pd.read_csv("fake_job_postings.csv")
